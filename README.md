@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hammad</h1>
 <h3 align="center">Computer Systems Engineer & Passionate Developer</h3>
 
-<img align="right" alt="coding" width="320px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
+<img align="right" alt="coding" width="290px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
 ### 💫 About Me:
 🔭 Building clean mobile apps with Flutter & React Native.<br>
