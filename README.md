@@ -5,7 +5,7 @@
 
 ### 💫 About Me:
 🔭 Building clean mobile apps with Flutter & React Native.<br>
-👯 Seeking mobile/full-stack collabsto grow my backend skills.<br>
+👯 Seeking mobile/full-stack collabs to grow my backend skills.<br>
 🤝 Looking for help with architecture, scaling, and real-world backends.<br>
 🌱 Currently learning Node.js, databases, and system design.<br>
 💬 Ask me about Flutter, React Native, or getting started in mobile dev.<br>
